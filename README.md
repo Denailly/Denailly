@@ -15,7 +15,7 @@
   <img align="center" alt="Denailly-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Denailly-Csharp" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Denailly-Bootstrap" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img id="picture"align="right" alt="Denailly-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/619321044779532292/911518171872256011/denailly.png">
+  <img id="picture"align="right" alt="Denailly-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/619321044779532292/911518171872256011/denailly.png">
 </div>
   
  ##
