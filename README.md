@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá, eu sou o Danilo!
 
-<!--
-**Denailly/Denailly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com front-end e suporte
+- 🌱 Atualmente estudo Javascript HTML e CSS
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Denailly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denailly&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denailly&layout=compact&langs_count=7&theme=aura"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Denailly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Denailly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Denailly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Denailly-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img id="picture"align="right" alt="Denailly-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/619321044779532292/911518171872256011/denailly.png">
+</div>
+  
+ ##
+  
+  <div>
+      ![Snake animation](https://github.com/Denailly/Denailly/blob/output/github-contribution-grid-snake.svg)
+  </div>
