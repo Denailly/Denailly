@@ -1,6 +1,6 @@
 ### Olá, eu sou o Danilo!
 
-- 🔭 Hoje trabalho com front-end e suporte
+- 🔭 Hoje trabalho com Front-end e Suporte
 - 🌱 Atualmente estudo Javascript HTML e CSS
 
 <div align="center">
@@ -10,15 +10,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Denailly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Denailly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Denailly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Denailly-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Denailly-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Denailly-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Denailly-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Denailly-Csharp" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Denailly-Bootstrap" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img id="picture"align="right" alt="Denailly-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/619321044779532292/911518171872256011/denailly.png">
 </div>
   
  ##
   
-  <div>
-      ![Snake animation](https://github.com/Denailly/Denailly/blob/output/github-contribution-grid-snake.svg)
-  </div>
+![Snake animation](https://github.com/Denailly/Denailly/blob/output/github-contribution-grid-snake.svg)
