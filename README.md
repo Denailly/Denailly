@@ -1,6 +1,6 @@
 ### Olá, eu sou o Danilo!
 
-- 🔭 Hoje trabalho com Front-end e Suporte
+- 🔭 Hoje trabalho com Front-end ReactJS
 - 🌱 Atualmente estudo Javascript HTML e CSS
 
 <div align="center">
@@ -15,9 +15,7 @@
   <img align="center" alt="Denailly-CSS" height="45" width="55"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Denailly-Csharp" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Denailly-Bootstrap" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img id="picture"align="right" alt="Denailly-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/619321044779532292/911518171872256011/denailly.png">
+  <img id="picture"align="right" alt="Denailly-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/619321044779532292/944104893432594483/Dan_avatar_att.png">
 </div>
-  
- ##
   
 ![Snake animation](https://github.com/Denailly/Denailly/blob/output/github-contribution-grid-snake.svg)
