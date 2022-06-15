@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com Front-end ReactJS
 - 🌱 Atualmente estudo Javascript, ReactJS, HTML e CSS
 
-<div align="center">
+<div>
   <a href="https://github.com/Denailly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denailly&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denailly&layout=compact&langs_count=7&theme=aura"/>
