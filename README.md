@@ -18,5 +18,3 @@
   <img align="center" alt="Denailly-Csharp" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Denailly-Bootstrap" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
-  
-![Snake animation](https://github.com/Denailly/Denailly/blob/output/github-contribution-grid-snake.svg)
