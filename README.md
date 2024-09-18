@@ -1,7 +1,7 @@
 ### Olá, eu sou o Danilo!
 
 - 🔭 Hoje trabalho com Front-end ReactJS
-- 🌱 Atualmente estudo Javascript, ReactJS, HTML e CSS
+- 🌱 Atualmente estudo Cybersecurity na FIAP
 
 <div>
   <a href="https://github.com/Denailly">
@@ -10,6 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Denailly-Python" height="45" width="55" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
   <img align="center" alt="Denailly-Reactjs" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Denailly-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Denailly-Typescript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
